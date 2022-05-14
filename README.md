@@ -1,2 +1,2 @@
 # hello-word
-Repositorio de prueba
+Repositorio de prueba para curso Full Stack
